@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         self.tableView.dataSource = self
     }
 }
-// Added indexPath for Cells from TableView
+
 // Source: https://youtu.be/z2y7oljRacg?t=130
 
 extension ViewController: UITableViewDataSource {
